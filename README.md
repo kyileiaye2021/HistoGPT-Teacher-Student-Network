@@ -1,2 +1,2 @@
-# ctranspath
-This is image encoder for extracting features from BCC cancer Hematoxylin &amp; Eosin images.
+# histogpt
+This is a vision language model for detecting Basal Cell Carcinoma skin cancer in Hematoxylin &amp; Eosin images.
